@@ -3,4 +3,4 @@
 Collection of apps built with C++
 
 # &nbsp;
-# :skull_with_crossbones:
+# :spider_web::spider::spider_web:
